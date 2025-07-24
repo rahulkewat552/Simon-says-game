@@ -1,4 +1,4 @@
-<img width="1351" height="634" alt="simon-says-game" src="https://github.com/user-attachments/assets/c350d709-c9a7-4145-9cef-fe02c081ab24" /><img width="1351" height="634" alt="simon-says-game" src="https://github.com/user-attachments/assets/ae526f34-05db-4f1f-89a3-faed9154ad72" /># 🎮 Simon Says Game
+# 🎮 Simon Says Game
 
 A fun and interactive **Simon Says** game built using **HTML, CSS, and JavaScript**. Test your memory skills by repeating an increasingly long pattern of colors!
 
